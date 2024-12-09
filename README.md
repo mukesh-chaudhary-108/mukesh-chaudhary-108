@@ -1,5 +1,4 @@
-
-  <h1 align="center">Hi 👋, I'm Mukesh chaudhary</h1>
+<h1 align="center">Hi 👋, I'm Mukesh chaudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
  <img align="right" alt="Coding" src="https://camo.githubusercontent.com/971256b43ca3e39bdf1a50dca288b7a264982ac1e2d6ec77b75471bc5d995340/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784f47566b5954526b4d6a6c6c5a4451784e6a46684f444a685a6d59354e7a63334d6a59794f544977593259324e7a6b33596a67325a435a6a6444316e2f7167515567674143335066763638377150432f67697068792e676966" data-canonical-src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVkYTRkMjllZDQxNjFhODJhZmY5Nzc3MjYyOTIwY2Y2Nzk3Yjg2ZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
